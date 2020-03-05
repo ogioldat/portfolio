@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/ogioldat/portfolio/static/js/main.3d6c2cda.chunk.js",
-    "main.js.map": "/ogioldat/portfolio/static/js/main.3d6c2cda.chunk.js.map",
-    "runtime-main.js": "/ogioldat/portfolio/static/js/runtime-main.c8e59116.js",
-    "runtime-main.js.map": "/ogioldat/portfolio/static/js/runtime-main.c8e59116.js.map",
-    "static/js/2.1372f55f.chunk.js": "/ogioldat/portfolio/static/js/2.1372f55f.chunk.js",
-    "static/js/2.1372f55f.chunk.js.map": "/ogioldat/portfolio/static/js/2.1372f55f.chunk.js.map",
-    "index.html": "/ogioldat/portfolio/index.html",
-    "precache-manifest.94d29b52886702e3277377afe2631a0e.js": "/ogioldat/portfolio/precache-manifest.94d29b52886702e3277377afe2631a0e.js",
-    "service-worker.js": "/ogioldat/portfolio/service-worker.js",
-    "static/js/2.1372f55f.chunk.js.LICENSE.txt": "/ogioldat/portfolio/static/js/2.1372f55f.chunk.js.LICENSE.txt",
-    "static/media/artistify.png": "/ogioldat/portfolio/static/media/artistify.012f1bcb.png",
-    "static/media/ecoData.png": "/ogioldat/portfolio/static/media/ecoData.bdbc5ec2.png",
-    "static/media/eo.png": "/ogioldat/portfolio/static/media/eo.27916068.png",
-    "static/media/foodOrderApp.png": "/ogioldat/portfolio/static/media/foodOrderApp.ae1a59df.png",
-    "static/media/meImg.jpg": "/ogioldat/portfolio/static/media/meImg.e7f11eea.jpg"
+    "main.js": "/portfolio/static/js/main.3d6c2cda.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3d6c2cda.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.af0b07c5.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.af0b07c5.js.map",
+    "static/js/2.5f488c92.chunk.js": "/portfolio/static/js/2.5f488c92.chunk.js",
+    "static/js/2.5f488c92.chunk.js.map": "/portfolio/static/js/2.5f488c92.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.a63f10c6eed96eec661df95a8df5d5fa.js": "/portfolio/precache-manifest.a63f10c6eed96eec661df95a8df5d5fa.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/js/2.5f488c92.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5f488c92.chunk.js.LICENSE.txt",
+    "static/media/artistify.png": "/portfolio/static/media/artistify.012f1bcb.png",
+    "static/media/ecoData.png": "/portfolio/static/media/ecoData.bdbc5ec2.png",
+    "static/media/eo.png": "/portfolio/static/media/eo.27916068.png",
+    "static/media/foodOrderApp.png": "/portfolio/static/media/foodOrderApp.ae1a59df.png",
+    "static/media/meImg.jpg": "/portfolio/static/media/meImg.e7f11eea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8e59116.js",
-    "static/js/2.1372f55f.chunk.js",
+    "static/js/runtime-main.af0b07c5.js",
+    "static/js/2.5f488c92.chunk.js",
     "static/js/main.3d6c2cda.chunk.js"
   ]
 }
