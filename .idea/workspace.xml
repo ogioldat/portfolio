@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e7f6b2-2038-421b-9ec6-0ea4fbce06ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Me/Me.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/Me/Me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Me/Me.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/Me/Me.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/theme/GlobalStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/GlobalStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomeView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/organisms/Projects" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -57,13 +49,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\2. WEB\portfolio\src\components\molecules\Project" />
+      <recent name="F:\2. WEB\portfolio\src\components\molecules" />
+      <recent name="F:\2. WEB\portfolio\src\components\organisms" />
       <recent name="F:\2. WEB\portfolio" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\2. WEB\portfolio\src\components\organisms\Projects" />
+      <recent name="F:\2. WEB\portfolio\.storybook" />
       <recent name="F:\2. WEB\portfolio\src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.storybook">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -77,6 +74,21 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="storybook" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.storybook" />
+      <item itemvalue="npm.npm start" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -101,32 +113,49 @@
       <option name="presentableId" value="Default" />
       <updated>1583276609367</updated>
       <workItem from="1583276611147" duration="5113000" />
+      <workItem from="1583340201645" duration="5672000" />
+      <workItem from="1583350312998" duration="17477000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583278119613">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583342460265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583278119613" />
-    <state width="1899" height="185" key="GridCell.Tab.0.bottom" timestamp="1583278421159">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583342460265" />
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom" timestamp="1583366353310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583278421159" />
-    <state width="1899" height="185" key="GridCell.Tab.0.center" timestamp="1583278421159">
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
+    <state width="1877" height="185" key="GridCell.Tab.0.center" timestamp="1583366353310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583278421159" />
-    <state width="1899" height="185" key="GridCell.Tab.0.left" timestamp="1583278421158">
+    <state width="1877" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
+    <state width="1877" height="185" key="GridCell.Tab.0.left" timestamp="1583366353310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583278421158" />
-    <state width="1899" height="185" key="GridCell.Tab.0.right" timestamp="1583278421159">
+    <state width="1877" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
+    <state width="1877" height="185" key="GridCell.Tab.0.right" timestamp="1583366353310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583278421159" />
+    <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
+    <state x="647" y="236" width="626" height="568" key="find.popup" timestamp="1583358853573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="236" width="626" height="568" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583358853573" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1583358030375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583358030375" />
   </component>
 </project>

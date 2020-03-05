@@ -8,6 +8,7 @@ const GlobalStyle = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-family: 'Spartan', sans-serif;
+    scroll-behavior: smooth;
   }
   
   body {
