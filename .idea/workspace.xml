@@ -3,15 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e7e7f6b2-2038-421b-9ec6-0ea4fbce06ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Me/Me.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/Me/Me.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Me/Me.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/Me/Me.stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/theme/GlobalStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/theme/GlobalStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/HomeView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/organisms/Projects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -115,6 +107,8 @@
       <workItem from="1583276611147" duration="5113000" />
       <workItem from="1583340201645" duration="5672000" />
       <workItem from="1583350312998" duration="17477000" />
+      <workItem from="1583437328550" duration="42000" />
+      <workItem from="1588526436829" duration="28000" />
     </task>
     <servers />
   </component>

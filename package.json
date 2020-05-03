@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ogioldat.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@storybook/addon-knobs": "^5.3.14",
@@ -49,7 +48,6 @@
     "@storybook/addon-links": "^5.3.14",
     "@storybook/addons": "^5.3.14",
     "@storybook/preset-create-react-app": "^1.5.2",
-    "@storybook/react": "^5.3.14",
-    "gh-pages": "^2.2.0"
+    "@storybook/react": "^5.3.14"
   }
 }
