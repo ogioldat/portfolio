@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7e7f6b2-2038-421b-9ec6-0ea4fbce06ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Root.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,7 @@
       <workItem from="1583340201645" duration="5672000" />
       <workItem from="1583350312998" duration="17477000" />
       <workItem from="1583437328550" duration="42000" />
-      <workItem from="1588526436829" duration="28000" />
+      <workItem from="1588526436829" duration="615000" />
     </task>
     <servers />
   </component>
@@ -143,10 +144,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
-    <state x="647" y="236" width="626" height="568" key="find.popup" timestamp="1583358853573">
+    <state x="647" y="236" width="626" height="568" key="find.popup" timestamp="1588527038414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="647" y="236" width="626" height="568" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583358853573" />
+    <state x="647" y="236" width="626" height="568" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588527038414" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1583358030375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
