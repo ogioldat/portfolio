@@ -1,8 +1,8 @@
 import React from 'react';
-import GlobalStyle from 'theme/GlobalStyles';
+import GlobalStyle from '../theme/GlobalStyles';
 import PropTypes from 'prop-types';
 import { ThemeProvider } from 'styled-components';
-import theme from 'theme/MainTheme';
+import theme from '../theme/MainTheme';
 
 const MainTemplate = ({ children }) => (
   <>

@@ -1,7 +1,7 @@
-import ecoData from 'assets/images/ecoData.png'
-import artistify from 'assets/images/artistify.png'
-import eo from 'assets/images/eo.png'
-import foodOrderApp from 'assets/images/foodOrderApp.png'
+import ecoData from '../assets/images/ecoData.png'
+import artistify from '../assets/images/artistify.png'
+import eo from '../assets/images/eo.png'
+import foodOrderApp from '../assets/images/foodOrderApp.png'
 
 export const projectsData = [
     {

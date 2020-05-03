@@ -1,9 +1,9 @@
 import React from "react";
 import styled from "styled-components";
 import Header from "../../atoms/Header/Header";
-import Section from "templates/SectionTemplate";
+import Section from "../../../templates/SectionTemplate";
 import {skillsData} from "data/skillsData";
-import Skill from "components/atoms/Skill/Skill";
+import Skill from "../../../components/atoms/Skill/Skill";
 
 const StyledSkills = styled.div`
   display: grid;

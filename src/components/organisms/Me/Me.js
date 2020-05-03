@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 
-import meImg from 'assets/images/meImg.jpg'
-import Button from 'components/atoms/Button/Button'
+import meImg from '../../../assets/images/meImg.jpg'
+import Button from '../../../components/atoms/Button/Button'
 
 const StyledWrapper = styled.div`
   display: grid;

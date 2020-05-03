@@ -1,7 +1,7 @@
 import React from "react";
-import Me from "components/organisms/Me/Me";
-import AboutMe from "components/organisms/AboutMe/AboutMe";
-import Skills from "components/molecules/Skills/Skills";
+import Me from "../components/organisms/Me/Me";
+import AboutMe from "../components/organisms/AboutMe/AboutMe";
+import Skills from "../components/molecules/Skills/Skills";
 import Projects from "../components/organisms/Projects/Projects";
 import styled from "styled-components";
 

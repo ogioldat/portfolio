@@ -1,8 +1,8 @@
 import React from "react";
 import Header from "../../atoms/Header/Header";
-import Section from "templates/SectionTemplate";
+import Section from "../../../templates/SectionTemplate";
 import Project from "../../molecules/Project/Project";
-import {projectsData} from 'data/projectsData';
+import {projectsData} from '../../../data/projectsData';
 
 const Projects = () => (
     <Section fit>

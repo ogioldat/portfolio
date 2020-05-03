@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import Header from "../../atoms/Header/Header";
-import Section from "templates/SectionTemplate";
+import Section from "../../../templates/SectionTemplate";
 
 const StyledP = styled.p`
   font-size: ${({theme}) => theme.fontSize.m};

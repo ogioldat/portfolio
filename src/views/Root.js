@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
-import MainTemplate from 'templates/MainTemplate';
-import HomeView from "views/HomeView";
+import MainTemplate from '../templates/MainTemplate';
+import HomeView from "../views/HomeView";
 
 const Root = () => (
   <Router>
