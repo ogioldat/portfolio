@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e7f6b2-2038-421b-9ec6-0ea4fbce06ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Skills/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -52,7 +55,7 @@
       <recent name="F:\2. WEB\portfolio\src" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.storybook">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -108,7 +111,8 @@
       <workItem from="1583340201645" duration="5672000" />
       <workItem from="1583350312998" duration="17477000" />
       <workItem from="1583437328550" duration="42000" />
-      <workItem from="1588526436829" duration="1177000" />
+      <workItem from="1588526436829" duration="2111000" />
+      <workItem from="1588587174062" duration="105000" />
     </task>
     <servers />
   </component>
@@ -127,22 +131,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583342460265" />
-    <state width="1877" height="185" key="GridCell.Tab.0.bottom" timestamp="1583366353310">
+    <state width="1899" height="185" key="GridCell.Tab.0.bottom" timestamp="1588529873831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
-    <state width="1877" height="185" key="GridCell.Tab.0.center" timestamp="1583366353310">
+    <state width="1899" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588529873831" />
+    <state width="1899" height="185" key="GridCell.Tab.0.center" timestamp="1588529873831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
-    <state width="1877" height="185" key="GridCell.Tab.0.left" timestamp="1583366353310">
+    <state width="1899" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588529873831" />
+    <state width="1899" height="185" key="GridCell.Tab.0.left" timestamp="1588529873830">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
-    <state width="1877" height="185" key="GridCell.Tab.0.right" timestamp="1583366353310">
+    <state width="1899" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588529873830" />
+    <state width="1899" height="185" key="GridCell.Tab.0.right" timestamp="1588529873831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583366353310" />
+    <state width="1899" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588529873831" />
     <state x="647" y="236" width="626" height="568" key="find.popup" timestamp="1588527566962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
