@@ -1,8 +1,6 @@
 import {createGlobalStyle, withTheme} from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css?family=Spartan:300,700&display=swap');
-
     *, *::before, *::after {
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
